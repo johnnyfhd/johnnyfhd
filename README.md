@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @johnnyfhd
-- 👀 I’m interested in programing
+- 👀 I’m interested in 
 - 🌱 I’m currently learning eletronics
-- 📫 How to reach me: joao.leetc@gmail.com
+- 📫 How to reach me: santos.joaop04@gmail.com
 
 <!---
 johnnyfhd/johnnyfhd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
